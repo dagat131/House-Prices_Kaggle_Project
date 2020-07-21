@@ -5,7 +5,6 @@
 - Goal :   predict the sales price for each house and predict the value of the SalePrice variable For each Id in the test set.  
 - Metric : Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
 - Website : [House Prices: Advanced Regression Techniques](https://www.kaggle.com/search?q=house+prices+%3A)
-- Test: blah~blah~
 
 ## II. Data configuration
 ### 1. File descriptions
